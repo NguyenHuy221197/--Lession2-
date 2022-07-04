@@ -1,0 +1,37 @@
+
+
+.boxcenter {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.rows {
+    float: left;
+    width: 100%;
+}
+
+.mb {
+    margin-bottom: 20px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.mb50 {
+    margin-bottom: 50px;
+}
+
+.mr {
+    margin-right: 2%;
+}
+
+.demo {
+    background-color: antiquewhite;
+    min-height: 100px;
+}
+
+.le70 {
+    width: 70%;
+    margin: 0 auto;
+}
